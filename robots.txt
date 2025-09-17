@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://namemybrand.netlify.app/sitemap.xml
+
+Save robots.txt at the repo root, commit, wait for Netlify to publish, then visit:
+
+https://namemybrand.netlify.app/robots.txt
+
+https://namemybrand.netlify.app/sitemap.xml
+Both should load without errors.
